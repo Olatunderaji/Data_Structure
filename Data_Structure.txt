@@ -9,3 +9,4 @@ Read Set 2
 If element in set 2 is not in set 1
 If true add the element to sum
 Print sum
+End

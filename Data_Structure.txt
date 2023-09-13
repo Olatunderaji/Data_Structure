@@ -1,0 +1,11 @@
+PROBLEM
+Given two sets of elements, find the sum of all distinct elements from the set.
+SOLUTION
+Create a Variable to hold the sum
+Read Set 1 Elements
+Check if set 1 Elements is not in set 2
+If true add the element to sum
+Read Set 2
+If element in set 2 is not in set 1
+If true add the element to sum
+Print sum
